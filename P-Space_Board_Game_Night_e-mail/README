@@ -1,0 +1,1 @@
+This script runs every week and checks if a "Board Game Night" is scheduled on the calendar. If yes, it sends an e-mail reminder to the list.
